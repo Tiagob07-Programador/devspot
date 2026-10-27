@@ -37,13 +37,20 @@ O app possui duas telas com navegação em pilha (React Navigation):
 
 
 App.tsx
+
 assets/            # imagens
-prints/            # prints das telas
+
+
 src/
+
   components/      # AppButton, Header, Footer, ProfileImage, ScreenContainer
+
   data/            # textos, créditos e links das redes (profile.ts)
+  
   navigation/      # AppNavigator e tipos das rotas
+  
   screens/         # HomeScreen e AboutScreen
+  
   theme/           # cores, fontes e ThemeContext (claro/escuro)
 
 
