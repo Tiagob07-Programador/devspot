@@ -21,7 +21,7 @@ O app possui duas telas com navegação em pilha (React Navigation):
 - Animação  nas telas
 - Links reais nas redes sociais
 
-#Telas
+# Telas
 
 <img width="739" height="1600" alt="5" src="https://github.com/user-attachments/assets/ac16a26b-2614-4097-b607-e6beeaf28e56" />
 <img width="739" height="1600" alt="4" src="https://github.com/user-attachments/assets/bb67e6b9-442a-48a6-8c3d-5a9336cec1e6" />
