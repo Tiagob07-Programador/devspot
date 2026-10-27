@@ -23,12 +23,14 @@ O app possui duas telas com navegação em pilha (React Navigation):
 
 # Telas
 
-<img width="739" height="1600" alt="5" src="https://github.com/user-attachments/assets/ac16a26b-2614-4097-b607-e6beeaf28e56" />
-<img width="739" height="1600" alt="4" src="https://github.com/user-attachments/assets/bb67e6b9-442a-48a6-8c3d-5a9336cec1e6" />
-<img width="739" height="1600" alt="3" src="https://github.com/user-attachments/assets/5dd6f9c8-f1d8-4866-a137-f09dacf069bb" />
-<img width="739" height="1600" alt="2" src="https://github.com/user-attachments/assets/8e3a8ef0-35b9-4267-89fb-8443051e9d36" />
-<img width="739" height="1600" alt="1" src="https://github.com/user-attachments/assets/82ba077e-6d32-450f-bb63-b4b3c8320327" />
-<img width="739" height="1600" alt="6" src="https://github.com/user-attachments/assets/bb931192-ea41-4823-ad8a-74c5f91d9731" />
+<img width="739" height="1600" alt="1" src="https://github.com/user-attachments/assets/9ad7d829-78b9-4000-b4ad-d54ec6c50705" />
+<img width="739" height="1600" alt="2" src="https://github.com/user-attachments/assets/efea4f0f-cc2d-46f5-9fe3-b929463005d6" />
+<img width="739" height="1600" alt="3" src="https://github.com/user-attachments/assets/4e732c69-ee6e-4a1e-9d51-68804bc86871" />
+<img width="739" height="1600" alt="6" src="https://github.com/user-attachments/assets/f9027140-fbce-481c-afe3-41618bc39b5d" />
+<img width="739" height="1600" alt="4" src="https://github.com/user-attachments/assets/c9cb7d4f-c69e-48c0-b9ce-ecc8e19a02d4" />
+<img width="739" height="1600" alt="5" src="https://github.com/user-attachments/assets/6e7006f0-3ab5-45c2-985b-a5c4a943da5a" />
+
+
 
 
 # Estrutura do projeto
